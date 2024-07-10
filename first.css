@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: blue;
+    cursor: url("https://www.rawpixel.com/search/sad%20emoji?page=1&path=_topics&sort=curated"), auto ;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.box{
+    padding: 15px;
+    background-color: red;
+    width: 100px;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: yellowgreen;
+}
